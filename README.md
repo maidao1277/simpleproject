@@ -22,6 +22,7 @@ or a numbered list:
 1. first
 2. second
 3. third
+4. fourth
 
 ```python
 for i in range(10):
@@ -34,4 +35,4 @@ for i in range(10):
 
 ##### second change to readme
 
-There used to be an equation here. 
+There used to be an equation here.
