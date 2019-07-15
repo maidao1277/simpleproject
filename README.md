@@ -29,6 +29,7 @@ or a numbered list:
 for i in range(10):
     pass
 ```
+<<<<<<< HEAD
 
 
 
@@ -37,3 +38,5 @@ for i in range(10):
 ##### second change to readme
 
 There used to be an equation here.
+=======
+>>>>>>> branch_1
