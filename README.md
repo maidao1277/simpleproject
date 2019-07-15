@@ -34,17 +34,4 @@ for i in range(10):
 changes here to make github master and this master diverge
 
 
-##### this is readme edited
-
-##### second change to readme
-
-There used to be an equation here.
-=======
->>>>>>> branch_1
-
-
-
-this is more text, and more text
-
-
-this is more text, and more text, again
+the first things, are the changes you make it the computer
