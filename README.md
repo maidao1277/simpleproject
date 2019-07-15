@@ -31,6 +31,7 @@ for i in range(10):
 ```
 <<<<<<< HEAD
 
+changes here to make github master and this master diverge
 
 
 ##### this is readme edited
