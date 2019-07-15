@@ -33,3 +33,5 @@ for i in range(10):
 ##### this is readme edited
 
 ##### second change to readme
+
+There used to be an equation here. 
