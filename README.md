@@ -41,3 +41,7 @@ changes here to make github master and this master diverge
 There used to be an equation here.
 =======
 >>>>>>> branch_1
+
+
+
+this is more text, and more text
