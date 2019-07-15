@@ -30,7 +30,7 @@ for i in range(10):
     pass
 ```
 
-[my webpage](https://pearsonlab.github.io)
+
 
 ##### this is readme edited
 
