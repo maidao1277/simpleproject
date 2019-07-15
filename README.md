@@ -34,6 +34,7 @@ for i in range(10):
 changes here to make github master and this master diverge
 
 
+<<<<<<< HEAD
 ##### this is readme edited
 
 ##### second change to readme
@@ -45,3 +46,6 @@ There used to be an equation here.
 
 
 delete the text lines before
+=======
+the first things, are the changes you make it the computer
+>>>>>>> master
