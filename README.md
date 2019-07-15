@@ -44,7 +44,4 @@ There used to be an equation here.
 
 
 
-this is more text, and more text
-
-
-this is more text, and more text, again
+delete the text lines before
