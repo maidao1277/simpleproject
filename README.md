@@ -4,7 +4,7 @@
 
 ### sub-subheading
 
-#### this is the first readme created 
+#### this is the first readme created
 
 *this is in italics*
 _this is, too_
@@ -13,7 +13,7 @@ _this is, too_
 **this is boldface**
 __as is this__
 
-you can have a bulleted list: 
+you can have a bulleted list:
 - first
 - second
 - third
@@ -30,4 +30,4 @@ for i in range(10):
 
 [my webpage](https://pearsonlab.github.io)
 
-
+##### this is readme edited
